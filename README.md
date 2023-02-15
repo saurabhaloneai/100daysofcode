@@ -10,7 +10,7 @@ Welcome !!!   Here I will be sharing whatever the code I write through this 100D
 
 
 
-##  Currently I am Leaarning Artificial intelligence and Machine Learning.
+##  Currently I am Learning Artificial intelligence and Machine Learning.
 
 
 
