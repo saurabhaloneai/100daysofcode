@@ -3,7 +3,7 @@
 Welcome !!!   Here **Saurabh Alone** I will be sharing whatever the code I write through this 100Days Of Code Challenge.
 
 
-![code5](https://user-images.githubusercontent.com/99719265/218951550-355c08e6-0270-4cb1-a2f0-d99630e311c0.jpg)
+
 **Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Day 1|Feb 13, 2023| linear regression | [Course_link](https://in.coursera.org/learn/machine-learning/home/week/1)|
