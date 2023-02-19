@@ -4,7 +4,7 @@ Welcome !!!   Here **Saurabh Alone** I will be sharing whatever the code I write
 
 
 
-**Day:pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
+**Day:pushpin:** |**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
 |Day 1|Feb 13, 2023| linear regression | [Course_link](https://in.coursera.org/learn/machine-learning/home/week/1)|
 |Day 2|Feb 14, 2023| Gradient Descent for Linear Regression | [Course_link](https://in.coursera.org/learn/machine-learning/home/week/1)|
