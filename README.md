@@ -2,7 +2,7 @@
 
 Welcome !!!   Here **Saurabh Alone** I will be sharing whatever the code I write through this 100Days Of Code Challenge.
 
-<h1>Timeline<h1><br>
+<h1>Timeline</h1>
 
 |**Day :pushpin:**|**Date &nbsp;:calendar:**|**Lessons/Tasks Done :alarm_clock:**| **Reference Links :link:**|
 |------|-----------------|--------------------|---------------------|
