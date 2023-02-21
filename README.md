@@ -14,3 +14,4 @@ Welcome !!!   Here **Saurabh Alone** & I will be sharing whatever the code I wri
 |Day 6|Feb 18, 2023| Revise Logistic Regression. | [Course_link](https://in.coursera.org/learn/machine-learning/home/week/3)|
 |Day 7|Feb 19, 2023| cost and gradient descent (Logistic Regression) | [Course_link](https://in.coursera.org/learn/machine-learning/home/week/3)|
 |Day 8|Feb 20, 2023| basics of DL and started DL project | [Kaggle_project](https://www.kaggle.com/c/dog-breed-identification/overview)|
+|Day 9|Feb 21, 2023| Data preprocessing is done of kaggle project | [Kaggle_project](https://www.kaggle.com/c/dog-breed-identification/overview)|
