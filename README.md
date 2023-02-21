@@ -1,6 +1,6 @@
-# 100daysofcode
+##100daysofcode
 
-Welcome !!!   Here **Saurabh Alone** I will be sharing whatever the code I write through this 100Days Of Code Challenge.
+Welcome !!!   Here **Saurabh Alone** & I will be sharing whatever the code I write through this 100Days Of Code Challenge.
 
 <h1>Timeline</h1>
 
