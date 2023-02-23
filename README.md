@@ -16,3 +16,4 @@ Welcome !!!   Here **Saurabh Alone** & I will be sharing whatever the code I wri
 |Day 8|Feb 20, 2023| basics of DL and started DL project | [Kaggle_project](https://www.kaggle.com/c/dog-breed-identification/overview)|
 |Day 9|Feb 21, 2023| Data preprocessing is done of kaggle project | [Kaggle_project](https://www.kaggle.com/c/dog-breed-identification/overview)|
 |Day 10|Feb 22, 2023| build a DL model for kaggle project | [Kaggle_project](https://www.kaggle.com/c/dog-breed-identification/overview)|
+|Day 11|Feb 23, 2023| Optimizing the kaggle project | [Kaggle_project](https://www.kaggle.com/c/dog-breed-identification/overview)|
